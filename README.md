@@ -1,8 +1,18 @@
 # IoT Smart Parking System using ESP32
 
 An IoT-based Smart Parking System developed using the **ESP32** microcontroller for intelligent parking management. The system automatically allocates parking slots, detects vehicle occupancy in real time using ultrasonic sensors, controls an automated barrier gate, provides LED and LCD-based guidance, and hosts a live web dashboard for parking status monitoring.
+<p align="center">
+<img src="IMAGES/Whole_Project_View.jpeg" width="650">
+</p>
 
----
+
+![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-Smart%20Parking-4CAF50?style=for-the-badge)
+![WiFi](https://img.shields.io/badge/WiFi-Enabled-4285F4?style=for-the-badge&logo=wifi&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-6A1B9A?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 ## Table of Contents
 
 - Overview
