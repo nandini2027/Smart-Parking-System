@@ -3,7 +3,17 @@
 An IoT-based Smart Parking System developed using the **ESP32** microcontroller for intelligent parking management. The system automatically allocates parking slots, detects vehicle occupancy in real time using ultrasonic sensors, controls an automated barrier gate, provides LED and LCD-based guidance, and hosts a live web dashboard for parking status monitoring.
 
 ---
+## Table of Contents
 
+- Overview
+- Features
+- Hardware
+- Software
+- Working Principle
+- Circuit Diagram
+- Images
+- Technologies Used
+- Future Improvements
 #  Project Overview
 
 Finding an available parking space in crowded parking lots often leads to unnecessary fuel consumption, increased traffic congestion, and wasted time.
