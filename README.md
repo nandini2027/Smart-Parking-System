@@ -43,6 +43,7 @@ This project provides an automated parking solution that guides drivers to the n
 | Breadboard | 1 |
 | Jumper Wires | Multiple |
 | Micro USB Cable | 1 |
+
 For the complete list of hardware components, descriptions, specifications, and quantities used in this project, refer to 
 [Components List](Components_List.pdf)
 
