@@ -35,6 +35,9 @@ This project provides an automated parking solution that guides drivers to the n
 - Automatic slot availability update after vehicle exit
 - Wi-Fi enabled monitoring using ESP32
 
+[Demo Video](https://youtu.be/FTMqH3-Mw8U?si=oRWHn8dZRkMXGrN0)
+  
+
 ---
 
 # Hardware Components
