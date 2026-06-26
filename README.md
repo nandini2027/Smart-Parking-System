@@ -111,12 +111,16 @@ The ESP32 hosts a web dashboard displaying:
 - Automatic Status Refresh
 
 ---
-
-# Project Images
-
+## Circuit Diagram
+![Circuit Diagram](Circuit_Diagram.png)
 
 ---
+## Project Images
+![Complete View](IMAGES/Whole_Project_view.jpeg)
+![Front View](IMAGES/Front_View.jpeg)
+![Top View](IMAGES/Top_View.jpeg)
 
+---
 # Technologies Used
 
 - Embedded Systems
@@ -155,5 +159,3 @@ B.Tech Electronics(IoT)
 ---
 
 
-
-This project has been developed for educational and academic purposes.
